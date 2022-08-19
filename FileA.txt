@@ -1,4 +1,6 @@
 FileA.txt
 File B
 Changes in Dev
-one more new test
+<<<<<<< HEAD
+change again
+Change from Dev Branch
