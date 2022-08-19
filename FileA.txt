@@ -1,3 +1,9 @@
 FileA.txt
 File B
 Changes in Dev
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+change again
+Change from Dev Branch
+>>>>>>> dev
